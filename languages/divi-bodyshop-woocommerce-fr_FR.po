@@ -37,7 +37,7 @@ msgstr "Aucune commande n'a encore été faite."
 #: divi-bodyshop-woocommerce.php:804
 #, fuzzy
 msgid "You currently don't have any products assigned to a category."
-msgstr "Vous n'avez actuellement aucun produit affecté à une catégorie."
+msgstr "Vous n'avez actuellement aucun produit assigné à une catégorie."
 
 #: divi-bodyshop-woocommerce.php:1238 divi-bodyshop-woocommerce.php:1286
 #: divi-bodyshop-woocommerce.php:1738 divi-bodyshop-woocommerce.php:1786
@@ -2420,7 +2420,7 @@ msgstr "Changer la couleur de l'icône"
 #: functions.php:2083
 #, fuzzy
 msgid "Change the color of the icon"
-msgstr "Modifier la couleur de l'icône"
+msgstr "Changer la couleur de l'icône"
 
 #: functions.php:2087
 #, fuzzy
