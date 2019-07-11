@@ -182,8 +182,7 @@ msgid ""
 "hope that you find it useful in your web design adventures."
 msgstr ""
 "Tout d'abord, nous aimerions vous remercier d'avoir acheté l'un de nos "
-"plugins ! Nous espérons que vous le trouverez utile dans vos aventures de "
-"conception web."
+"plugins ! Nous espérons que vous le trouverez utile pour vos développements web. "
 
 #: functions.php:28
 #, fuzzy
@@ -209,7 +208,7 @@ msgid ""
 msgstr ""
 "Ne vous inquiétez pas, nous sommes là pour vous aider. Consultez d'abord "
 "notre documentation (voir ci-dessous), si vous ne trouvez pas de solution, "
-"utilisez notre section support sur notre site et nous vous aiderons à "
+"utilisez la section support sur notre site et nous vous aiderons à "
 "résoudre tout problème."
 
 #: functions.php:39 titan-framework/titan-framework.php:188
@@ -298,16 +297,16 @@ msgstr "Page de produit"
 #: functions.php:82
 #, fuzzy
 msgid "Shop/Category Pages"
-msgstr "Pages de Boutique/catégorie"
+msgstr "Boutique/catégorie"
 
 #: functions.php:83
 #, fuzzy
 msgid "Tags Page"
-msgstr "Tags Page"
+msgstr "Page des étiquettes"
 
 #: functions.php:85
 msgid "Account Pages"
-msgstr "Pages du compte"
+msgstr "Pages Mon Compte"
 
 #: functions.php:86
 msgid "Login Page"
@@ -315,15 +314,15 @@ msgstr "Page de connexion"
 
 #: functions.php:87
 msgid "Cart Page"
-msgstr "Page du panier"
+msgstr "Page Panier"
 
 #: functions.php:88
 msgid "Checkout Page"
-msgstr "Page commande"
+msgstr "Page Commande"
 
 #: functions.php:89
 msgid "Search Results Page"
-msgstr "Page de résultats de la recherche"
+msgstr "Page de résultats de recherche"
 
 #: functions.php:90
 msgid "Thank You Page"
@@ -331,17 +330,17 @@ msgstr "Page de Remerciements"
 
 #: functions.php:91
 msgid "Email Template"
-msgstr "Modèle de courriel"
+msgstr "Modèle d'email"
 
 #: functions.php:92
 #, fuzzy
 msgid "Mini Cart/Cart Icon Settings"
-msgstr "Réglages des icônes du mini chariot/chariot"
+msgstr "Mini Panier/Réglages de l'icône du mini Panier"
 
 #: functions.php:93
 #, fuzzy
 msgid "Sale/New/Free Badge"
-msgstr "Vente/Nouveau/Plaquette gratuite"
+msgstr "Vente/Nouveau/Badge de produit Gratuit"
 
 #: functions.php:94
 msgid "Variation Swatches"
@@ -407,7 +406,7 @@ msgstr "Shortcodes"
 #: functions.php:116
 #, fuzzy
 msgid "Sharing icon style"
-msgstr "Partager le style des icônes"
+msgstr "Style des icônes de partage"
 
 #: functions.php:128
 #, fuzzy
@@ -475,7 +474,7 @@ msgstr "Activer LinkedIn"
 
 #: functions.php:163
 msgid "Enable Pinterest"
-msgstr "Désactiver part Pinterest"
+msgstr "Activer Pinterest"
 
 #: functions.php:172
 #, fuzzy
@@ -498,8 +497,8 @@ msgid ""
 "such as the quantity or select boxes, this will change it globally."
 msgstr ""
 "Vous trouverez ci-dessous quelques paramètres pour personnaliser les champs "
-"du formulaire de votre site, tels que la quantité ou les cases de sélection, "
-"ce qui le changera globalement."
+"du formulaire de votre site, tels que la quantité ou les cases à cocher, "
+"ce qui le changera globalement sur le site."
 
 #: functions.php:215
 #, fuzzy
@@ -518,7 +517,7 @@ msgstr ""
 #: functions.php:225
 #, fuzzy
 msgid "Enable Placeholders"
-msgstr "Activer les espaces réservés"
+msgstr "Activer les placeholders"
 
 #: functions.php:231
 #, fuzzy
@@ -526,8 +525,8 @@ msgid ""
 "If you want to remove the labels of the inputs and instead move them to be "
 "placeholders, enable this."
 msgstr ""
-"Si vous voulez supprimer les étiquettes des entrées et les déplacer pour en "
-"faire des caractères génériques, activez cette option."
+"Si vous voulez supprimer les labels des champs du formulaire et les déplacer pour en "
+"faire des placeholders, activez cette option."
 
 #: functions.php:235 functions.php:437 functions.php:609
 msgid "Background color"
@@ -549,28 +548,28 @@ msgstr "Taille de police"
 #: functions.php:262 functions.php:628
 #, fuzzy
 msgid "Set the size of the text in the input."
-msgstr "Définissez la taille du texte dans l'entrée."
+msgstr "Définissez la taille du texte dans les champs du formulaire."
 
 #: functions.php:271 functions.php:637
 msgid "Padding top"
-msgstr "Marge intérieur en haut"
+msgstr "Marge intérieure en haut"
 
 #: functions.php:282 functions.php:648
 msgid "Padding bottom"
-msgstr "Marge intérieur en bas"
+msgstr "Marge intérieure en bas"
 
 #: functions.php:293 functions.php:659
 msgid "Padding right"
-msgstr "Marge (padding) droite"
+msgstr "Marge intérieure droite"
 
 #: functions.php:304 functions.php:670
 msgid "Padding left"
-msgstr "Marge (padding) gauche"
+msgstr "Marge intérieure gauche"
 
 #: functions.php:315 functions.php:681
 #, fuzzy
 msgid "Input border style"
-msgstr "Style de bordure d'entrée"
+msgstr "Style de bordure du champ du formulaire"
 
 #: functions.php:318 functions.php:512 functions.php:684
 #, fuzzy
@@ -627,7 +626,7 @@ msgstr "Extérieure"
 #: functions.php:334 functions.php:700
 #, fuzzy
 msgid "Input border size"
-msgstr "Taille de la bordure d'entrée"
+msgstr "Taille de la bordure du champ"
 
 #: functions.php:337 functions.php:531 functions.php:703
 #, fuzzy
@@ -636,12 +635,12 @@ msgstr "Définissez la taille de la bordure."
 
 #: functions.php:346 functions.php:712
 msgid "Input border color"
-msgstr "Couleur de la bordure de la zone de saisie"
+msgstr "Couleur de la bordure du champ"
 
 #: functions.php:354
 #, fuzzy
 msgid "Input invalid border color"
-msgstr "Couleur de bordure d'entrée invalide"
+msgstr "Couleur de bordure du champ invalide"
 
 #: functions.php:362
 #, fuzzy
@@ -661,7 +660,7 @@ msgstr "Définissez le rayon de la bordure."
 #: functions.php:391
 #, fuzzy
 msgid "Enable custom quantity field"
-msgstr "Activer le champ Quantité personnalisée"
+msgstr "Activer le champ de Quantité personnalisée"
 
 #: functions.php:397
 #, fuzzy
@@ -675,7 +674,7 @@ msgstr ""
 #: functions.php:401
 #, fuzzy
 msgid "Quantity style"
-msgstr "Quantité style"
+msgstr "Style du champs de quantité"
 
 #: functions.php:404
 #, fuzzy
@@ -767,11 +766,11 @@ msgstr "Taille de l'icône moins"
 
 #: functions.php:472 functions.php:500 functions.php:751
 msgid "Set the size of the icon."
-msgstr "La taille du."
+msgstr "Définir la taille de l'icône"
 
 #: functions.php:481
 msgid "Plus icon"
-msgstr "Plus icône"
+msgstr "Icône Plus"
 
 #: functions.php:489
 #, fuzzy
@@ -786,38 +785,38 @@ msgstr "Taille de l'icône Plus"
 #: functions.php:509
 #, fuzzy
 msgid "Quantity border style"
-msgstr "Quantité style bordure"
+msgstr "Style de bordure du champs Quantité"
 
 #: functions.php:528
 #, fuzzy
 msgid "Quantity border size"
-msgstr "Taille de la bordure de la quantité"
+msgstr "Taille de la bordure du champs Quantité"
 
 #: functions.php:540
 #, fuzzy
 msgid "Quantity border color"
-msgstr "Quantité couleur bordure"
+msgstr " Couleur de la bordure du champs Quantité"
 
 #: functions.php:548
 #, fuzzy
 msgid "Quantity border radius"
-msgstr "Quantité Rayon de bordure"
+msgstr "Rayon de bordure du champs Quantité"
 
 #: functions.php:560
 #, fuzzy
 msgid "Quantity width"
-msgstr "Quantité largeur"
+msgstr "Largeur du champs de Quantité"
 
 #: functions.php:571
 #, fuzzy
 msgid "Quantity height"
-msgstr "Quantité hauteur"
+msgstr "Hauteur du champs de Quantité"
 
 #: functions.php:577
 #, fuzzy
 msgid "Set the height of the quantity box - set as 0 to not have a set height"
 msgstr ""
-"Réglez la hauteur de la boîte de quantité - réglez-la sur 0 pour ne pas "
+"Réglez la hauteur du champs de quantité - réglez-la sur 0 pour ne pas "
 "avoir de hauteur définie"
 
 #: functions.php:588
@@ -836,7 +835,7 @@ msgid ""
 "it differently so enable this to keep it consistent (and it will speed up "
 "your site as will remove some scripts)"
 msgstr ""
-"Si vous avez une boîte de sélection personnalisée à la caisse par exemple, "
+"Si vous avez une boîte de sélection personnalisée sur la page Commande par exemple, "
 "select2 la rendra différemment, alors activez-la pour qu'elle reste "
 "cohérente (et cela accélérera votre site et supprimera certains scripts)"
 
@@ -855,14 +854,13 @@ msgstr "Taille de l'icône"
 #: functions.php:760
 #, fuzzy
 msgid "Icon distance from right"
-msgstr "Distance de l'icône de droite"
+msgstr "Distance de l'icône à partir de la droite"
 
 #: functions.php:763
 #, fuzzy
 msgid "Change how far away from the right you want the icon"
 msgstr ""
-"Modifiez la distance entre l'icône et la droite à laquelle vous voulez "
-"qu'elle soit affichée"
+"Modifiez la distance entre l'icône et la droite de l'écran "
 
 #: functions.php:772
 msgid "Icon background color"
@@ -880,8 +878,8 @@ msgid ""
 "shortcode and paste it in the text or code module to display it"
 msgstr ""
 "Vous trouverez ci-dessous une liste de shortcodes que vous pouvez utiliser "
-"sur votre site - cliquez pour copier le shortcode et collez-le dans le texte "
-"ou l'élément de code pour l'afficher"
+"sur votre site - cliquez pour copier le shortcode et collez-le dans un module Texte "
+"ou Code pour l'afficher"
 
 #: functions.php:804
 msgid "Cart Icon:"
@@ -890,7 +888,7 @@ msgstr "Icône du panier :"
 #: functions.php:804
 #, fuzzy
 msgid " Displays the Cart/Basket icon"
-msgstr " Affiche l'icône Panier/Panier"
+msgstr " Affiche l'icône Panier"
 
 #: functions.php:804 functions.php:809 functions.php:814
 msgid "Click to copy"
@@ -899,12 +897,12 @@ msgstr "Cliquez pour copier"
 #: functions.php:809
 #, fuzzy
 msgid "Product Reviews:"
-msgstr "Critiques de produits :"
+msgstr "Avis de produits :"
 
 #: functions.php:809
 #, fuzzy
 msgid " Displays the product reviews module"
-msgstr " Affiche le module d'évaluation des produits"
+msgstr " Affiche le module d'avis des produits"
 
 #: functions.php:814
 msgid "User Name:"
@@ -927,7 +925,7 @@ msgstr "Style de variation"
 #, fuzzy
 msgid "Select the way you want the variation fields to appear."
 msgstr ""
-"Sélectionnez la façon dont vous voulez que les zones de variation "
+"Sélectionnez la façon dont vous voulez que les champs de variation "
 "apparaissent."
 
 #: functions.php:863 includes/modules/ProContent/ProContent.php:274
@@ -938,12 +936,12 @@ msgstr "Carré"
 #: functions.php:864 includes/modules/ProContent/ProContent.php:273
 #: includes/modules/ProTabs/ProTabs.php:532
 msgid "Circle"
-msgstr "Cercle"
+msgstr "Rond"
 
 #: functions.php:871
 #, fuzzy
 msgid "Label Variation Type"
-msgstr "Type de modification de l'étiquette"
+msgstr "Type de Variation des Libellés"
 
 #: functions.php:875
 msgid "Label Width"
@@ -952,21 +950,21 @@ msgstr "Largeur du libellé"
 #: functions.php:878
 #, fuzzy
 msgid "Set how wide you want the label to be."
-msgstr "Définissez la largeur de l'étiquette que vous souhaitez."
+msgstr "Définissez la largeur du libellé que vous souhaitez."
 
 #: functions.php:887
 msgid "Label Height"
-msgstr "Hauteur de l'étiquette"
+msgstr "Hauteur du libellé"
 
 #: functions.php:890
 #, fuzzy
 msgid "Set how high you want the label to be."
 msgstr ""
-"Définissez la hauteur à laquelle vous voulez que l'étiquette soit placée."
+"Définissez la hauteur du libellé."
 
 #: functions.php:899
 msgid "Label background color"
-msgstr "Couleur d'arrière-plan de l'étiquette"
+msgstr "Couleur d'arrière-plan du libellé"
 
 #: functions.php:907
 msgid "Label text color"
@@ -975,7 +973,7 @@ msgstr "Couleur du texte des libellés"
 #: functions.php:915
 #, fuzzy
 msgid "Out Of Stock Strike Through?"
-msgstr "Rupture d'actions de Strike Through ?"
+msgstr "En Rupture de Stock ?"
 
 #: functions.php:921
 #, fuzzy
@@ -983,7 +981,7 @@ msgid ""
 "If you would like your out of stock button variant swatches to not be "
 "clickable and have a line through them (diagonally) - enable this"
 msgstr ""
-"Si vous souhaitez que vos échantillons de boutons en rupture de stock ne "
+"Si vous souhaitez que vos boutons en rupture de stock ne "
 "soient pas cliquables et qu'une ligne les traverse (en diagonale) - activez "
 "cette option"
 
